@@ -1,0 +1,33 @@
+body{
+    background-color: #FFEC5C;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+div{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 1px solid #000;
+
+}
+
+#containner{
+    background-color: #B4CF66;
+    height: 600px;
+    width: 615px;
+    border-radius: 4px;
+    padding: 5px;
+    box-shadow: 3px 3px 10px #707f42;
+
+
+}
+
+div#containner > div{
+    background-color: rgba(255, 251, 251, 0.911);
+}
+
+p{
+    text-align: justify;
+}
+
